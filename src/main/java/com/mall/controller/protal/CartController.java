@@ -6,8 +6,6 @@ import com.mall.common.ServerResponse;
 import com.mall.pojo.User;
 import com.mall.service.ICartService;
 import com.mall.vo.CartVo;
-import org.apache.ibatis.annotations.ResultMap;
-import org.apache.ibatis.plugin.Interceptor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
