@@ -15,13 +15,8 @@ import com.mall.util.PropertiesUtil;
 import com.mall.vo.CartProductVo;
 import com.mall.vo.CartVo;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.cglib.core.CollectionUtils;
-import org.springframework.dao.ConcurrencyFailureException;
 import org.springframework.stereotype.Service;
-import sun.font.BidiUtils;
-
 import java.math.BigDecimal;
-import java.util.Collections;
 import java.util.List;
 
 /**
