@@ -4,7 +4,6 @@ import com.github.pagehelper.PageInfo;
 import com.mall.common.ServerResponse;
 import com.mall.service.IProductService;
 import com.mall.vo.ProductDetailVo;
-import com.sun.xml.internal.ws.api.ha.StickyFeature;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
